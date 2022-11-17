@@ -1,0 +1,9 @@
+LIBRARIES : 
+
+Adafruit_MPU6050 - https://github.com/adafruit/Adafruit_MPU6050.git
+
+Adafruit_Sensor - https://github.com/adafruit/Adafruit_Sensor.git
+
+BOARD : 
+
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
