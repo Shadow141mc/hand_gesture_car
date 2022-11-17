@@ -6,4 +6,8 @@ Adafruit_Sensor - https://github.com/adafruit/Adafruit_Sensor.git
 
 BOARD : 
 
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Prefer this website to know how to install the esp32 board for Arduino ide
+
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
